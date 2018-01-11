@@ -7,6 +7,8 @@ Self-study, based on the [syllabus][syllabus] for Davis' [book][book].
 
 ## License
 
-Copyright © 2017 Bhaskar Mookerji
+Copyright © 2018 Bhaskar Mookerji
 
 Distributed under the Apache License 2.0
+
+csparse is Copyright © Timothy Davis under LGPLv2.1
