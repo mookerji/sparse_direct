@@ -23,6 +23,7 @@ FLAGS = [
     "-Wno-c++98-compat",
     "-Wno-c++98-compat-pedantic",
     "-Wno-comma",
+    "-Wno-deprecated",
     "-Wno-documentation",
     "-Wno-documentation-deprecated-sync",
     "-Wno-documentation-unknown-command",

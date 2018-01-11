@@ -1,6 +1,6 @@
 .PHONY: cpp-test
 cpp-test:
-	bazel test cpp/...
+	bazel test cpp/... --test_output=all
 
 .PHONY: clang-format-all
 clang-format-all:
