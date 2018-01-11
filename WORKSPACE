@@ -15,3 +15,11 @@ new_http_archive(
     strip_prefix="eigen-eigen-1d454915237a",
     url="http://bitbucket.org/eigen/eigen/get/1d454915237a.tar.gz",
 )
+
+new_http_archive(
+    name="csparse",
+    build_file="third_party/csparse.BUILD",
+    strip_prefix="SuiteSparse",
+    url=
+    "http://faculty.cse.tamu.edu/davis/SuiteSparse/SuiteSparse-5.1.0.tar.gz",
+)
